@@ -32,8 +32,8 @@
 - 2026-10-19 교시 12:00~12:50 2호관-B201호 
 - 2026-12-07 교시 12:00~12:50 6호관-309호
 
-## 공유
-- [수업 공유](https://docs.google.com/spreadsheets/d/1m56iodSA9tQzGYz30JoLWELRRM7e1zGa0U3n50gjANM/edit?usp=sharing)
+## 수업공유
+- [QB생성형AI활용](https://docs.google.com/spreadsheets/d/1I6Ghvt7hBspyLf_5yk8kHawtOtj8WZUDJFvPBiPqR0k/edit?usp=sharing)
 - 위 구글 시트에 팀 깃허브저장소 주소 입력해 주세요. 09/12(토)까지
 
 ## 프롬프트 사례
