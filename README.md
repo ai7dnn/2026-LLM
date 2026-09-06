@@ -7,9 +7,10 @@
   <img width="458" height="633" alt="image" src="https://github.com/user-attachments/assets/48c4b3d1-11e3-4b64-bc8d-2c95f5382bea" />
 
 ---
-## 수업 공유와 팀원 구성
+## 수업 공유와 설문 조사, 팀원 구성
 - 9/7(월) 수업전 구성
-- [QB생성형AI활용](https://docs.google.com/spreadsheets/d/1I6Ghvt7hBspyLf_5yk8kHawtOtj8WZUDJFvPBiPqR0k/edit?usp=sharing)
+  - [QB생성형AI활용](https://docs.google.com/spreadsheets/d/1I6Ghvt7hBspyLf_5yk8kHawtOtj8WZUDJFvPBiPqR0k/edit?usp=sharing)
+- [설문 조사](https://forms.cloud.microsoft/r/vNukKjjmAZ) 
 - 위 구글 시트에 팀 깃허브저장소 주소 입력해 주세요. 09/12(토)까지
 
 ---
