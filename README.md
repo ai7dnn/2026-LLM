@@ -1,10 +1,14 @@
 # 2026-LLM
-2026 2학기 생성형AI활용
+2026 2학기 생성형AI활용: 학교의 PBL(Project Basesd Learning) 교과목 인증
 
 ## 교재
 - [ChatGPT로 시작하는 인공지능 첫걸음 - 생성형 AI 시대의 LLM 활용서 -](https://mamoth.co.kr/product/search.html?banner_action=&keyword=chatgpt)
 
   <img width="458" height="633" alt="image" src="https://github.com/user-attachments/assets/48c4b3d1-11e3-4b64-bc8d-2c95f5382bea" />
+
+---
+## 팀원 구성
+  - 9/7(월) 수업전 구성
 
 ---
 ## 성적 평가 
@@ -17,8 +21,6 @@
   - 프로젝트중간보고서(5) 10-11주
   - 프로젝트최종보고서(5) 13-14주
   - 동료 평가서(팀간 평가)(4) 
-- 팀원 구성
-  - 9/7(월) 수업전 구성
 
 - 개인별 과제 10%
   - 개인 프로젝트아이디어제안서(3) 	3주
@@ -28,7 +30,7 @@
       - 2회 결석 시, 병원진단서라도 감점
       - 상습 지각자 등
     - 학생의 동료 평가(4)
-      - 동료 평가서(팀내 평가서) 
+      - 동료 평가서(팀내 평가) 
 
 ---
 ## 수업 일정
