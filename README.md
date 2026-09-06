@@ -7,8 +7,10 @@
   <img width="458" height="633" alt="image" src="https://github.com/user-attachments/assets/48c4b3d1-11e3-4b64-bc8d-2c95f5382bea" />
 
 ---
-## 팀원 구성
-  - 9/7(월) 수업전 구성
+## 수업 공유와 팀원 구성
+- 9/7(월) 수업전 구성
+- [QB생성형AI활용](https://docs.google.com/spreadsheets/d/1I6Ghvt7hBspyLf_5yk8kHawtOtj8WZUDJFvPBiPqR0k/edit?usp=sharing)
+- 위 구글 시트에 팀 깃허브저장소 주소 입력해 주세요. 09/12(토)까지
 
 ---
 ## 성적 평가 
@@ -58,9 +60,7 @@
 - 2026-10-19 교시 12:00~12:50 2호관-B201호 
 - 2026-12-07 교시 12:00~12:50 6호관-309호
 
-## 수업공유
-- [QB생성형AI활용](https://docs.google.com/spreadsheets/d/1I6Ghvt7hBspyLf_5yk8kHawtOtj8WZUDJFvPBiPqR0k/edit?usp=sharing)
-- 위 구글 시트에 팀 깃허브저장소 주소 입력해 주세요. 09/12(토)까지
+
 
 ## 프롬프트 사례
 - 최근 웹프로그래밍 기술 동향에서 프론트엔드 분야에서 활용되는 "기술 트렌드" 자료 10페이지 작성해 줘
